@@ -2,7 +2,7 @@
 
 console.log("----------------Question 1----------------")
 
-let num =100
+let num =parseInt(100)
 result=[]
 for(let i=1;i<=num;i++){
     //We will use here the logical operator "AND" to check if both numbers are divisible or not.
