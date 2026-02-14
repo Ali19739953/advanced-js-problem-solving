@@ -105,3 +105,9 @@ console.log("----------------Question 8----------------")
 for(let i=0;i<=num;i++){
    console.log(`square of ${i} is ${i*i}`)
 }
+
+
+
+
+
+
